@@ -15,3 +15,6 @@ When complete, you'll be able to grab random quotes from the command line, like 
 ## Start the Tutorial
 
 You can find your next step in [this repo's issues](../../issues/)!
+
+Hi. I am Shaurya and likes C programming. I am a student and knows a lot about basic programming.
+
